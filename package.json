@@ -1,0 +1,16 @@
+{
+  "name": "js-slideshow",
+  "version": "1.0.0",
+  "description": "See https://howtocode.club/ for more information",
+  "main": "index.js",
+  "dependencies": {
+    "budo": "^11.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "budo --live",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

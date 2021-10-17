@@ -27,4 +27,4 @@ npm start
 
 ## Result
 
-[screenshot]
+<img width="1552" alt="js-slideshow" src="https://user-images.githubusercontent.com/53351370/137621381-6a87c0b3-e630-4273-9607-e2cac77ad2dc.png">

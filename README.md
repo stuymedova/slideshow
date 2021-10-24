@@ -1,6 +1,6 @@
-# SvelteKit + GSAP
+# JS Slideshow
 
-Simple slideshow implemented in Vanilla JavaScript
+A simple slideshow implemented in Vanilla JavaScript as part of the [howtocode.club](https://howtocode.club) course
 
 ## Overview
 
